@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hello-banner.png">
-    <img src="assets/hello-banner.gif" width="960" height="304" alt="Hello! Bonzi Buddy waves from both sides of the banner.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hello-pixel-banner.png">
+    <img src="assets/hello-pixel-banner.gif" width="960" height="310" alt="Hello! Two pixel-art Bonzi Buddies wave from either side.">
   </picture>
 </p>
 

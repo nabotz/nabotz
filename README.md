@@ -9,7 +9,7 @@
 
 <p align="center">doing things. feel free to wave back.</p>
 
-Building stuff with code. Some useful, some just for fun.
+building stuff
 
 **Things I've made**
 

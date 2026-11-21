@@ -7,8 +7,6 @@
   </picture>
 </p>
 
-<p align="center">doing things. feel free to wave back.</p>
-
 building stuff
 
 **Things I've made**

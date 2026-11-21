@@ -13,7 +13,7 @@
   <a href="https://github.com/nabotz/asciit"><img src="assets/cards/asciit.png" width="48%" alt="asciit: ascii art editor"></a>
   <a href="https://github.com/nabotz/comfyui-multiview-kit"><img src="assets/cards/comfyui-multiview-kit.png" width="48%" alt="comfyui-multiview-kit: comfyui image-to-3d workflow"></a>
   <br>
-  <a href="https://github.com/nabotz/kiln-yard"><img src="assets/cards/kiln-yard.png" width="48%" alt="kiln-yard: three.js shooter"></a>
+  <a href="https://github.com/nabotz/clayfield"><img src="assets/cards/clayfield.png" width="48%" alt="clayfield: three.js shooter"></a>
   <a href="https://github.com/nabotz/tiny-chess-4k"><img src="assets/cards/tiny-chess-4k.png" width="48%" alt="tiny-chess-4k: 4 kb chess engine"></a>
 </p>
 

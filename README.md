@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-building stuff
+<p align="center">building stuff</p>
 
 **Things I've made**
 
